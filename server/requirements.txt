@@ -1,0 +1,6 @@
+logging
+requests
+sentencepiece
+transformers
+torch
+googledrivedownloader
